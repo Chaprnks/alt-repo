@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1720472914519,
+  "timestamp": 1721077697712,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1695,9 +1695,9 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.2.2",
-      "version_code": 23,
-      "author": "𝗪𝗜𝗡𝗭𝗢𝗥𝗧",
+      "version": "v1.2.5",
+      "version_code": 26,
+      "author": "𝗦𝗵𝗟𝗲𝗿𝗣",
       "description": "Your digital bodyguard. This Magisk module zaps ads and malware, keeping your apps squeaky clean and your browsing buttery smooth. Surf smart, surf safe! 🛡️🚀",
       "metadata": {
         "license": "GPL-2.0",
@@ -1706,6 +1706,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1721077689622,
+          "version": "v1.2.5 (26)",
+          "version_code": 26,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/26.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/26.md"
+        },
         {
           "timestamp": 1720472903150,
           "version": "v1.2.2 (23)",
