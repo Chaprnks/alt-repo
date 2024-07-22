@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1721077697712,
+  "timestamp": 1721682507189,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -9,8 +9,8 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3",
-      "version_code": 4,
+      "version": "v1.3.1",
+      "version_code": 5,
       "author": "nedorazrab0",
       "description": "Protection from bootloop",
       "metadata": {
@@ -19,6 +19,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues"
       },
       "versions": [
+        {
+          "timestamp": 1721435287000,
+          "version": "v1.3.1 (5)",
+          "version_code": 5,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/5.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/5.md"
+        },
         {
           "timestamp": 1718056739000,
           "version": "v1.3 (4)",
