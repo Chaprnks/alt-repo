@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1721682507189,
+  "timestamp": 1722287322675,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1768,8 +1768,8 @@
     {
       "id": "systemless_adblocker",
       "name": "Systemless Adblocker",
-      "version": "1.6",
-      "version_code": 106,
+      "version": "1.7",
+      "version_code": 107,
       "author": "burhanverse",
       "description": "An efficient adblocker based out of @gloeyisk's systemless-host module with no user interface & the lastest hosts from github@StevenBlack",
       "metadata": {
@@ -1778,6 +1778,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/issues"
       },
       "versions": [
+        {
+          "timestamp": 1722018915000,
+          "version": "1.7 (107)",
+          "version_code": 107,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/107.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/107.md"
+        },
         {
           "timestamp": 1717798630000,
           "version": "1.6 (106)",
